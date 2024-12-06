@@ -1,8 +1,8 @@
 cabal-version:      3.6
 name:               haskell-interview
 version:            0.1.0.0
-author:             Dzmitry L.
-maintainer:         dima.lenchevskii@gmail.com
+author:             Λ
+maintainer:         dmitry.sychov.software@gmail.com
 extra-source-files: CHANGELOG.md
 
 library
